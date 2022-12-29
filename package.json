@@ -1,0 +1,23 @@
+{
+  "name": "planets-exploration",
+  "version": "1.0.0",
+  "description": "Discover exoplanets that might be able to sustain life, using the data collected by the kepler spacecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayoamigo/Planets-exploration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yayoamigo/Planets-exploration/issues"
+  },
+  "homepage": "https://github.com/yayoamigo/Planets-exploration#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.3"
+  }
+}
